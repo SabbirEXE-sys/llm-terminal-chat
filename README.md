@@ -46,8 +46,8 @@ Built with ❤️ by **Sabbir**.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/SabbirEXE-sys/llm-terminal-chat.git
+cd llm-terminal-chat
 ```
 
 ### 3. Install Dependencies
